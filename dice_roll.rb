@@ -4,6 +4,5 @@
 
 def roll
   # code goes here
-  numbers = [1..6]
-  return numbers[rand(5)]
+  rand(7)
 end
